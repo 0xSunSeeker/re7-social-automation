@@ -1,0 +1,363 @@
+entity,channel,post_id,date,date_display,text,format,ai_format,theme,likes,comments,reposts,views,metric,percentile,excluded,url,source
+Labs,Telegram,re7labsalpha/171,2026-08-26T17:56:49+00:00,,"New episode of 1000x Media is out: What It's Like Running A Billion-Dollar Market-Neutral Fund In Crypto Avi Felman sits down with Evgeny Gokhberg to talk through the real AI risk to DeFi, and why 99% of this year's hacks had nothing to do with AI breaking smart contracts. Recorded live at Out East Summit. ▶️ YouTube 🎧 Spotify Website | X | Linkedin",link post,link post,Media & events,,,,354,354,100.0,,https://t.me/re7labsalpha/171,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/172,2026-08-31T18:18:54+00:00,,"Re7's Weekly is out: The Rise of Interface Apps In this week’s note: 🔹 Why interface apps are capturing a growing share of crypto trading volume 🔹 Why perpetuals are leading the shift, with spot beginning to follow 🔹 How distribution and order flow are emerging as a new layer of value capture Full article: https://re7.capital/blog/cf96b76f-0fb9-4387-a0ef-8f698db82bd7 Website | X | Substack | Tokenised Fund",image,image,Weekly promotion,,,,309,309,94.4,,https://t.me/re7labsalpha/172,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/173,2026-09-04T10:41:01+00:00,,"Re7 Labs x Optimism: Growing Re7ETH! Re7 Labs has been awarded an OP grant to grow Re7ETH, Re7's ETH Yield strategy. As part of phase 1, depositors can now lend WETH into Re7ETH on OP Mainnet and earn up to 12%. 👉 Deposit here: https://app.morpho.org/opmainnet/vault/0x3d63934715b6D4c4DFbBC1a00Fe2A2145079DD76/re7-weth Re7 ETH Yield is a delta-neutral, ETH-denominated strategy designed to accumulate ETH. For more information: app.re7labs.xyz",link post,link post,Product & vault update,,,,290,290,88.9,,https://t.me/re7labsalpha/173,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/174,2026-09-07T17:12:17+00:00,,"Re7's Weekly is out: Can the Move Sustain? In this week’s note: 🔹 Why the breakout from a 20-month consolidation looks likely to be sustained 🔹 How technicals, flows and fundamentals have moved into alignment 🔹 Why the strongest part of the mid-cap opportunity is still ahead Full article: https://re7.capital/blog/a528a118-277e-410f-b22d-3897eaf05370 Website | X | Substack | Tokenised Fund",image,image,Weekly promotion,,,,225,225,44.4,,https://t.me/re7labsalpha/174,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/175,2026-09-08T13:28:58+00:00,,"Re7 Labs x Kamino: Introducing the Plume Vaults We're excited to announce that Re7 Labs, in partnership with Kamino, is launching a dedicated Plume Vaults market — bringing curated lending and borrowing to a new class of onchain products. Users will be able to lend and borrow against a range of Plume Vaults products, starting with nOPAL. The underlying strategy targets a base yield of ~11.5%, offering a differentiated, real-world-yield source for DeFi users. With this Plume Vaults market live on Kamino, nOPAL holders can now use their holdings as collateral, unlock liquidity, and access lending markets curated by Re7. 👉 More information: Re7Labs | Kamino",image,image,Product & vault update,,,,267,267,77.8,,https://t.me/re7labsalpha/175,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/176,2026-09-10T19:26:08+00:00,,"Re7's OP Morpho WETH vault was integrated by AlchemixFi. The market lends against Re7ETH – Re7's flagship ETH Yield strategy – and wstETH. The Optimism incentive campaign is now live, so MYT depositors can earn OP rewards on top of the base lending rate. Learn more: app.re7labs.xyz",image,image,Product & vault update,,,,284,284,83.3,,https://t.me/re7labsalpha/176,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/177,2026-09-14T15:01:40+00:00,,Re7's Weekly is out: Crypto Defies the Hikes In this week’s note: 🔹 Robinhood Chain activity rolling over after the stock-token/memecoin surge 🔹 The latest Clarity Act update and path to passage 🔹 Why crypto is holding up despite rising rate-hike expectations Full article: https://re7.capital/blog/622bee97-31a3-422a-a6e6-754e9950d013 Website | X | Substack | Tokenised Funds,image,image,Weekly promotion,,,,205,205,27.8,,https://t.me/re7labsalpha/177,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/178,2026-09-15T16:42:34+00:00,,"Re7 Labs Alpha: Unlock Exclusive Yields Re7 provides access to some of the best yields across DeFi. Explore and optimize your strategies with top-tier APYs across multiple ecosystems. 🔹 This week Featured Yields: Top yields by asset — Morpho — USDC 6.61% Re7 USDC / Worldchain EURC 9.28% Re7 EURC / Worldchain WETH 4.61% Morpho V2 Re7 WETH / Optimism BUSD 11.22% Re7 BUSD — Kamino — USDC 6.44% Plume x Re7 USDC / Kamino Looping nOpal - max APY 31%. — Vesu — strkBTC 2% Re7 xBTC / Starknet Recent News: Re7's OP Morpho WETH vault was integrated by AlchemixFi . The market lends against Re7ETH – Re7's flagship ETH Yield strategy – and wstETH. The Optimism incentive campaign is now live, so WETH depositors can earn OP rewards on top of the base lending rate. Learn more: app.re7labs.xyz",image,image,Product & vault update,,,,216,216,33.3,,https://t.me/re7labsalpha/178,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/179,2026-09-17T11:18:07+00:00,,"New report — Decentralised Finance: Mapping Yield, Risk, and Institutional Participation Institutional interest in DeFi has moved past the question of appetite. What's still catching up are the frameworks to evaluate it properly. Our latest report, produced in partnership with Zodia Custody , applies a traditional finance lens to DeFi — mapping where returns actually come from, the risks behind them, and what institutional-grade participation requires in practice. Download the report to discover: 🔹 The five sources of DeFi yield, and why headline APY hides more than it reveals 🔹 A risk framework covering financial, smart contract, structural, and stablecoin risk 🔹 Why institutional participation is now constrained by infrastructure, not appetite 🔹 How custody evolves from passive safekeeping to an active control layer in DeFi 🔹 What role asset managers, custodians, and infrastructure providers each play in institutional-grade access Download the full report via the link .",image,image,Research insight,,,,249,249,61.1,,https://t.me/re7labsalpha/179,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/180,2026-09-21T22:40:21+00:00,,Re7's Weekly is out: Markets Are Moving Onchain In this week’s note: 🔹 Why trading continues to move from centralised exchanges to DEXs 🔹 How tokenisation and recent US regulatory changes could accelerate the shift Full article: https://re7.capital/blog/634b404f-e587-40fa-888b-f58d06e2d793 Website | X | Substack | Tokenised Funds,image,image,Weekly promotion,,,,197,197,22.2,,https://t.me/re7labsalpha/180,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/181,2026-09-22T09:08:28+00:00,,🔹 This Week's Featured Yield USD 36% Plume x Re7 USDC / Kamino 🔹 Top Yields by Asset — USD 8.89% Plume x Re7 USDC / Kamino EUR 10.93% Re7 EURC / Worldchain ETH 9.31% Morpho V2 Re7 WETH / Optimism BTC 0.65% Re7 xBTC / Starknet — 🔹 Highlighted Trade: nOpal on Kamino 🧮 Supply APY: 11% Borrow cost: 4.38% Max LTV: 75% LLTV: 85% Net APY  ≈ 30.9% Learn more: app.re7labs.xyz,image,image,Product & vault update,,,,240,240,55.6,,https://t.me/re7labsalpha/181,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/182,2026-09-28T18:48:23+00:00,,Re7's Weekly is out: Trading Cards Move Onchain In this week’s note: 🔹 Why trading cards are becoming increasingly financialised. 🔹 How tokenisation improves the trading and ownership experience. 🔹 The emergence of onchain TCG marketplaces as a new crypto vertical. Full article: https://re7.capital/blog/4ea27857-364f-4a6b-b392-0f3d29fcf8fb Website | X | Substack | Tokenised Funds,image,image,Weekly promotion,,,,194,194,16.7,,https://t.me/re7labsalpha/182,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/183,2026-09-29T09:30:16+00:00,,🔹 This Week's Featured Yield USDC  8.73% Plume x Re7 USDC / Kamino 🔹 New Vaults Coming Up This Week... frxUSD on mainnet - target supply APY 7.5%. 🔹 Top Yields by Asset USDC 8.73% Plume x Re7 USDC / Kamino EUR 11.58% Re7 EURC / Worldchain ETH 4.56% Morpho V2 Re7 WETH / Optimism 🔹 Highlighted Trade: nOpal on Kamino 🧮 Supply APY: 10.91% Borrow cost: 4.27% Max LTV: 75% LLTV: 85% Net APY ≈ 30.8% Learn more: app.re7labs.xyz,image,image,Product & vault update,,,,253,253,66.7,,https://t.me/re7labsalpha/183,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/184,2026-10-05T19:35:10+00:00,,Re7's Weekly is out: From Permission to Integration In this week’s note: 🔹 Why the US wants to promote dollar stablecoins abroad 🔹 How regulators are building crypto into existing financial frameworks 🔹 Why banks integrating stablecoin rails marks a shift in adoption Full article: https://re7.capital/blog/73d49b55-5078-4dd3-8270-f2de88fcd500 Website | X | Substack | Tokenised Funds,image,image,Weekly promotion,,,,219,219,38.9,,https://t.me/re7labsalpha/184,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/185,2026-10-12T16:03:48+00:00,,Re7's Weekly is out: From Record September to Midterm Uncertainty In this week’s note: 🔹 Looking back at a significant quarter for crypto and what it signals for the broader recovery. 🔹 Assessing the current market backdrop as price momentum improves despite persistent scepticism. 🔹 Looking ahead to US midterms and what historical patterns suggest for risk assets. Full article: https://re7.capital/blog/02c8d1e4-35b4-464d-833c-bc08573023c3 Website | X | Substack | Tokenised Funds,image,image,Weekly promotion,,,,187,187,8.3,,https://t.me/re7labsalpha/185,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/186,2026-10-13T15:27:33+00:00,,"New report — A Framework for Decomposing DeFi Risk in the Age of AI As DeFi matures and institutional capital arrives, a common language for measuring and comparing risk is becoming essential. Re7 Capital and Clear Street have jointly published a new report that proposes a framework towards an industry-wide DeFi risk standard, drawing on Re7’s risk methodology. The report covers: 🔹 Why we propose breaking DeFi risk down into three layers (chain, protocol, and asset), and how a proposed industry standard could be governed 🔹 How risks across layers can compound rather than add up, and what genuine diversification requires across the DeFi stack 🔹 Chain risk and the “1% problem”: how systematic chain selection can help manage infrastructure risk 🔹 How AI is changing the DeFi risk landscape, and how it can enable continuous monitoring across the DeFi stack Download the full report via the link 👇 https://re7.capital/blog/3b3ec006-c302-40b0-85c9-48310f1b4399",image,image,Research insight,,,,266,266,72.2,,https://t.me/re7labsalpha/186,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/187,2026-10-19T10:13:27+00:00,,Re7's Weekly is out: Markets Are Refusing to Break In this week’s note: 🔹 Why Bitcoin is absorbing negative macro headlines 🔹 The growing disconnect between sentiment and price 🔹 What could drive the next leg higher into year-end Full article: https://re7.capital/blog/0c7c3a0e-3d2c-4cdb-83b5-a3084a28265b Website | X | Substack | Tokenised Funds,image,image,Weekly promotion,,,,238,238,50.0,,https://t.me/re7labsalpha/187,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/188,2026-10-26T23:21:11+00:00,,"Re7's Weekly is out: Three Areas of Growth in On-Chain Markets In this week’s note: 🔹 Accelerating adoption across three emerging on-chain markets. 🔹 Bearish sentiment diverging from stabilising market technicals. 🔹 A pivotal week for macro data, central banks and Big Tech earnings. Full article: https://re7.capital/blog/d5ca6bb6-8a10-4462-8278-800a6cb17db1 Website | X | Substack | Tokenised Funds",image,image,Weekly promotion,,,,187,187,8.3,,https://t.me/re7labsalpha/188,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/189,2026-11-02T18:00:03+00:00,,"Re7's Weekly is out: The Binance Hack and What Comes Next In this week’s note: 🔹 Why the $6.3bn Binance exploit has had a surprisingly limited impact on markets. 🔹 Crypto sentiment resetting as Bitcoin holds key technical support. 🔹 Improving cross-asset conditions ahead of the US midterms, potentially setting up renewed risk appetite. Full article: https://re7.capital/blog/9c4a3d8e-83d6-4b4e-af89-5e33ed3215ed Website | X | Substack | Tokenised Funds",image,image,Weekly promotion,,,,120,120,0.0,,https://t.me/re7labsalpha/189,scraped t.me/s/re7labsalpha
+Labs,Telegram,re7labsalpha/190,2026-11-04T11:35:14+00:00,,"Market Flash The US midterms were the clearing event investors were waiting for. After aggressive de-risking into the election, both tech and crypto are leading the recovery. Crypto beta is moving in line with US tech, while alts are leading the charge. Markets have shrugged off concerns around a Democratic sweep slowing crypto legislation, further signalling sellers were already exhausted. Seemingly bad headlines are no longer pushing prices lower.",image,image,Market commentary,,,,111,111,,under 48 hours old,https://t.me/re7labsalpha/190,scraped t.me/s/re7labsalpha
+Capital,X,2110099977074520196,2026-10-13T20:06:52.953000+00:00,,"Beyond holding ETH: a conversation with Sharplink’s Joseph Chalom on Crypto Minutes, @Bloomberg TV.
+Crypto Minutes, @Bloomberg TV.
+Re7's Founder & CIO @evgeny_re7 speaks with @joechalom, CEO of
+@Sharplink, on how a Nasdaq-listed @ethereum treasury goes beyond
+holding ETH, combining price exposure with",video,video,Media & events,32,1,7,2900,2900,,pinned,https://x.com/Re7Capital/status/2110099977074520196,import (screenshot capture)
+Capital,X,2117963007326101728,2026-11-04T12:51:45.453000+00:00,,"Chart of the week.
+The US midterms were the clearing event investors were waiting for.
+After aggressive de-risking into the election, both tech and crypto are
+leading the recovery. Crypto beta is moving in line with US tech, while alts
+are leading the charge.
+Markets have",chart/data visual,chart/data visual,Market commentary,4,,1,459,459,,under 48 hours old,https://x.com/Re7Capital/status/2117963007326101728,import (screenshot capture)
+Capital,X,2117627770595328286,2026-11-03T14:39:38.788000+00:00,,"Stablecoins beyond payments: @ethena's Guy Young on Crypto Minutes,
+@Bloomberg TV
+Re7's Founder & CIO @evgeny_re7 hosts Guy Young (@gdog97), Founder &
+CEO of Ethena Labs, on how Ethena is building a full financial platform
+around stablecoins.
+""The core idea behind our",video,video,Media & events,4,,2,398,398,,under 48 hours old,https://x.com/Re7Capital/status/2117627770595328286,import (screenshot capture)
+Capital,X,2117314783267484101,2026-11-02T17:55:56.794000+00:00,,"Re7's Weekly is out: The Binance Hack and What Comes Next
+We breakdown:
+• Why the $ 6.3bn Binance exploit has had a surprisingly limited impact
+on markets.
+• Crypto sentiment resetting as Bitcoin holds key technical support.
+• Improving cross-asset conditions ahead of the",image,image,Weekly promotion,7,2,1,474,474,81.8,,https://x.com/Re7Capital/status/2117314783267484101,import (screenshot capture)
+Capital,X,2115149910542897482,2026-10-27T18:33:30.915000+00:00,,"Bringing corporate treasury on-chain: a conversation with @YuvalRooz on
+Crypto Minutes, @Bloomberg TV.
+Re7's Founder & CIO @evgeny_re7 hosts a conversation with Yuval Rooz,
+Co-Founder and CEO of @digitalasset, the company behind
+@CantonNetwork, on the next phase of finance",video,video,Media & events,4,2,,3100,3100,95.5,,https://x.com/Re7Capital/status/2115149910542897482,import (screenshot capture)
+Capital,X,2114858287095005549,2026-10-26T23:14:42.467000+00:00,,"Re7's Weekly is out: Three Areas of Growth in On-Chain Markets
+We breakdown:
+• Accelerating adoption across three emerging on-chain markets.
+• Bearish sentiment diverging from stabilising market technicals.
+• A pivotal week for macro data, central banks and Big Tech",image,image,Weekly promotion,2,1,,315,315,22.7,,https://x.com/Re7Capital/status/2114858287095005549,import (screenshot capture)
+Capital,X,2112559255031030094,2026-10-20T14:59:10.509000+00:00,,"Building the rails between TradFi and digital assets: a conversation with
+@BCBcrypto Tim Renew on Crypto Minutes, @Bloomberg TV.
+Re7's Founder & CIO @evgeny_re7 hosts a conversation with @TimRenew,
+CEO of BCB Group, on the infrastructure connecting traditional finance",video,video,Media & events,4,,,377,377,54.5,,https://x.com/Re7Capital/status/2112559255031030094,import (screenshot capture)
+Capital,X,2112124422626689417,2026-10-19T10:11:18.385000+00:00,,"Re7's Weekly is out: Markets Are Refusing to Break
+We breakdown:
+• Why Bitcoin is absorbing negative macro headlines
+• The growing disconnect between sentiment and price
+• What could drive the next leg higher into year-end
+Read The Full Article Here:",image,image,Weekly promotion,4,,1,441,441,68.2,,https://x.com/Re7Capital/status/2112124422626689417,import (screenshot capture)
+Capital,X,2110024223620002103,2026-10-13T15:05:51.922000+00:00,,"New report — A Framework for Decomposing DeFi Risk in the Age of Al
+As DeFi matures and institutional capital arrives, a common language for
+measuring and comparing risk is becoming essential. Re7 Capital and
+@ClearStreetLLC have jointly published a new report that proposes a",image,image,Research insight,7,2,2,510,510,86.4,,https://x.com/Re7Capital/status/2110024223620002103,import (screenshot capture)
+Capital,X,2109673685447491635,2026-10-12T15:52:57.109000+00:00,,"Re7's Weekly is out: From Record September to Midterm Uncertainty
+We breakdown:
+• Looking back at a significant quarter for crypto and what it signals for
+the broader recovery.
+• Assessing the current market backdrop as price momentum improves
+despite persistent scepticism.",image,image,Weekly promotion,,,,240,240,0.0,,https://x.com/Re7Capital/status/2109673685447491635,import (screenshot capture)
+Capital,X,2108255947445416133,2026-10-08T17:59:22.029000+00:00,,"Re7 Capital hosts Crypto Minutes, the new @Bloomberg TV show.
+Crypto Minutes is an interview series airing on Bloomberg TV, hosted by
+@evgeny_re7, Founder & CIO of Re7 Capital.
+As crypto goes mainstream, the question is no longer whether traditional
+finance will engage with",image,image,Media & events,21,2,5,3300,3300,100.0,,https://x.com/Re7Capital/status/2108255947445416133,import (screenshot capture)
+Capital,X,2108071928535945726,2026-10-08T05:48:08.502000+00:00,,"Re7's Founder & CIO, @evgeny_re7, will be on stage tomorrow at
+@Vault__Summit in Singapore.
+He'll discuss the role of vaults as traditional assets move onchain, and what
+vault curators and asset issuers each need to get right on transparency,
+liquidity and risk.",image,image,Media & events,8,2,,464,464,72.7,,https://x.com/Re7Capital/status/2108071928535945726,import (screenshot capture)
+Capital,X,2107736775133159565,2026-10-07T07:36:21.704000+00:00,,"Re7's Founder & CIO, @evgeny_re7, will be speaking at LONGITUDE by
+@Cointelegraph in Singapore on October 8th, discussing ""Where Is the
+Smart Money Going? ETFs, Onchain Asset Management and the Next
+Cycle.""
+He'll be joined by @Duncanmoir from @21shares, @Yannimoto from
+@Bitwise,",image,image,Media & events,1,,,356,356,40.9,,https://x.com/Re7Capital/status/2107736775133159565,import (screenshot capture)
+Capital,X,2107191702679420957,2026-10-05T19:30:26.304000+00:00,,"Re7's Weekly is out: From Permission to Integration
+We breakdown:
+• Why the US wants to promote dollar stablecoins abroad
+• How regulators are building crypto into existing financial frameworks
+• Why banks integrating stablecoin rails marks a shift in adoption
+Read The",image,image,Weekly promotion,2,,,293,293,9.1,,https://x.com/Re7Capital/status/2107191702679420957,import (screenshot capture)
+Capital,X,2107073401785356434,2026-10-05T11:40:21.173000+00:00,,"Re7's Founder & CIO, @evgeny_re7, will be speaking at the @Yield_Summit in
+Singapore on October 6th, discussing ""Onchain Credit: Underwriting,
+Transparency and Risk.""
+He'll be joined on the main stage by @tn_pendle from @pendle_fi and
+others.
+For more details:",image,image,Media & events,5,,1,340,340,31.8,,https://x.com/Re7Capital/status/2107073401785356434,import (screenshot capture)
+Capital,X,2107063318317814201,2026-10-05T11:00:17.087000+00:00,,"An opportunity to join Re7 Capital!
+We're hiring a Fund Operations Manager.
+The role will oversee operations across our fund platform, working closely
+with the portfolio management team, fund administrators and senior
+leadership across:
+- Fund valuation and reporting
+- DeFi",image,image,Company news,3,3,,259,259,4.5,,https://x.com/Re7Capital/status/2107063318317814201,import (screenshot capture)
+Capital,X,2105984932430442990,2026-10-02T11:35:09.856000+00:00,,"Re7's Founder & CIO, @evgeny_re7, will be speaking at the @Vault_Summit
+in Singapore on October 9th, discussing ""What Vaults Demand of
+Traditional Assets.""
+He'll be joined on the panel by speakers from @StanChart,
+@FrankInTempletn, and @TheoriqAI with @Spittfires_from",image,image,Media & events,5,,,344,344,36.4,,https://x.com/Re7Capital/status/2105984932430442990,import (screenshot capture)
+Capital,X,2103233755578237116,2026-09-24T21:22:58.180000+00:00,,"Chart of the week.
+Solana spot DEX activity has more than doubled since July, nearing 200M
+weekly trades.
+The acceleration puts onchain activity around NYSE levels by trade coun
+nighlighting how quickly DEX infrastructure is converging with traditiona
+exchanges.
+More market",chart/data visual,chart/data visual,Research insight,,1,,374,374,50.0,,https://x.com/Re7Capital/status/2103233755578237116,import (screenshot capture)
+Capital,X,2103233759000834462,2026-09-24T21:22:58.996000+00:00,,For informational purposes only. Not investment advice or an offer or solicitation. Re7 Capital provides market research only and does not guarantee performance.,text-only,text-only,Company news,,,,209,209,,thread continuation,https://x.com/Re7Capital/status/2103233759000834462,import (screenshot capture)
+Capital,X,2102093312584782067,2026-09-21T17:51:15.382000+00:00,,"Re7's Weekly is out: Markets Are Moving Onchain
+We breakdown:
+• Why trading continues to move from centralised exchanges to DEXs
+• How tokenisation and recent US regulatory changes could accelerate the
+shift
+Read The Full Article Here:
+re7.capital/blog/634b404f-...",image,image,Weekly promotion,4,1,1,305,305,18.2,,https://x.com/Re7Capital/status/2102093312584782067,import (screenshot capture)
+Capital,X,2100538556963856482,2026-09-17T10:53:12.756000+00:00,,"New report: Decentralised Finance: Mapping Yield, Risk, and Institutional
+Participation.
+Our report with @ZodiaCustody is now live - a traditional finance lens on
+where DeFi returns come from, the risks",image,image,Research insight,8,2,2,679,679,90.9,,https://x.com/Re7Capital/status/2100538556963856482,import (screenshot capture)
+Capital,X,2099513044384584083,2026-09-14T14:58:11.504000+00:00,,"Re7's Weekly is out: Crypto Defies the Hikes
+We breakdown:
+- Robinhood Chain activity rolling over after the stock-token/memecoin
+surge
+- The latest Clarity Act update and path to passage
+- Why crypto is holding up despite rising rate-hike expectations
+Read The Full Article",link post,link post,Weekly promotion,1,1,,436,436,63.6,,https://x.com/Re7Capital/status/2099513044384584083,import (screenshot capture)
+Capital,X,2099513084255551684,2026-09-14T14:58:21.010000+00:00,,"Real-time alpha on Re7's positioning, market moves, and DeFi opportunities. Join Re7 Alpha on Telegram →
+opportunities
+Join Rel Alpha on Telegram →
+t.me
+Re7 Alpha
+Weekly Alpha on everything Re7. https://linktr.ee/re7_
+https://app.re7labs.xyz/",link post,link post,Company news,1,,,290,290,,thread continuation,https://x.com/Re7Capital/status/2099513084255551684,import (screenshot capture)
+Capital,X,2098128454688604592,2026-09-10T19:16:19.596000+00:00,,"Chart of the week.
+Stock-paired memecoins fueled a surge in @RobinhoodApp Chain DEX
+volume — from under $50M in mid-August to a peak of $1.23B.
+Volume has since pulled back ~72% to $340M, but still sits roughly 7x
+Volume has since pulled back ~72% to $34OM, but still sits roughly 7x
+above mid-August levels, suggesting some of the activity is",chart/data visual,chart/data visual,Research insight,1,1,,324,324,27.3,,https://x.com/Re7Capital/status/2098128454688604592,import (screenshot capture)
+Capital,X,2098128458282889556,2026-09-10T19:16:20.453000+00:00,,For informational purposes only. Not investment advice or an offer or solicitation. Re7 Capital provides market research only and does not guarantee performance.,text-only,text-only,Company news,,,,173,173,,thread continuation,https://x.com/Re7Capital/status/2098128458282889556,import (screenshot capture)
+Capital,X,2098034433613778954,2026-09-10T13:02:43.225000+00:00,,"Excited for Re7's founder @evgeny_re7 to join @AIM_Summit Dubai this
+October - see you there. F
+AIM Summit @AIM_Summit • Sep 9
+We're thrilled to announce that Evgeny Gokhberg, Founder & Managing
+Partner of @Re7Capital, will be joining AIM Summit Dubai 2026 as a
+speaker.
+- 12-13 October 2026...
+THE LEADING ALTERNATIVE
+ДІМ
+INVESTMENT SUMMIT
+SUMMIT
+12 - 13 OCTOBER 2026
+DUBAI
+JUMEIRAH EMIRATES TOWERS
+SPEAKER
+Evgeny
+Gokhberg
+Founder & Managing Partner",link post,link post,Media & events,2,,1,301,301,13.6,,https://x.com/Re7Capital/status/2098034433613778954,import (screenshot capture)
+Capital,X,2097009291551007174,2026-09-07T17:09:10.311000+00:00,,"Re7's Weekly is out: Can the Move Sustain?
+We breakdown:
+- Why the breakout from a 20-month consolidation looks likely to be
+sustained
+- How technicals, flows and fundamentals have moved into alignment
+- Why the strongest part of the mid-cap opportunity is still ahead
+- Why the strongest part of the mid-cap opportunity is still ahead
+Read The",link post,link post,Weekly promotion,4,,1,360,360,45.5,,https://x.com/Re7Capital/status/2097009291551007174,import (screenshot capture)
+Capital,X,2095559898041843994,2026-09-03T17:09:47.970000+00:00,,"Chart of the week.
+BTC's 200-day moving average turned up in August, ending a 277-day
+decline.
+This signal has fired four times since 2010.
+Every time, price was higher 3, 6, 12 and 24 months later — the weakest 3-
+month result was still +46%.",chart/data visual,chart/data visual,Research insight,4,1,1,418,418,59.1,,https://x.com/Re7Capital/status/2095559898041843994,import (screenshot capture)
+Capital,X,2095559900403261561,2026-09-03T17:09:48.533000+00:00,,For informational purposes only. Not investment advice or an offer or solicitation. Re7 Capital provides market research only and does not guarantee performance.,text-only,text-only,Company news,1,,,153,153,,thread continuation,https://x.com/Re7Capital/status/2095559900403261561,import (screenshot capture)
+Capital,X,2094821920176799923,2026-09-01T16:17:20.336000+00:00,,"Our founder @evgeny_re7 will be taking the stage at Digital Asset Yield
+Summit Singapore on October 6th - alongside leaders from @Sharplink,
+@Fidelity, @Bitwise Asset Management and others.
+See you in Singapore *
+Digital Asset Yield Summit • @Yield_Summit • Aug 12
+25+ industry leaders will take the stage at DAYS Singapore on October
+6!
+DAYS Singapore brings together leading voices across digital assets,
+institutional finance, and onchain markets. Meet the speakers:...
+DAYS Singapore Speakers 2026
+TILLUOUIVIVIL I
+Leamn more daysevent.com
+Singapore — 6 October 2026",image,image,Media & events,5,,2,469,469,77.3,,https://x.com/Re7Capital/status/2094821920176799923,import (screenshot capture)
+Capital,X,2094489267267408071,2026-08-31T18:15:29.702000+00:00,,"Re7's Weekly is out: The Rise of Interface Apps
+We breakdown:",text-only,text-only,Weekly promotion,,,,,,,no metric,https://x.com/Re7Capital/status/2094489267267408071,import (screenshot capture)
+Labs,X,2097312472873009342,2026-09-08T13:13:54.371000+00:00,,Re7 Labs x @kamino: Introducing the @plumenetwork Vaults,image,image,Product & vault update,21,4,7,29000,29000,,pinned,https://x.com/Re7Labs/status/2097312472873009342,import (screenshot capture)
+Labs,X,2116174949333311546,2026-10-30T14:26:39.207000+00:00,,"Binance hot wallet incident: Re7 Labs update
+Our risk systems flagged the incident immediately, and the team has been
+tracking it since the first reports came in.
+Re7 curated vaults have no exposure across all chains and platforms to the
+event and we'll continue to monitor all",text-only,text-only,Risk & incident update,15,,,2700,2700,80.0,,https://x.com/Re7Labs/status/2116174949333311546,import (screenshot capture)
+Labs,X,2106028404042596561,2026-10-02T14:27:54.296000+00:00,,"frxUSD lenders are making 9.31% APY lending to sUSDai.
+sUSDai loopers are earning up to 35.3% APY.
+Link below 4",image,image,Product & vault update,192,3,2,1500,1500,60.0,,https://x.com/Re7Labs/status/2106028404042596561,import (screenshot capture)
+Labs,X,2106028547525812524,2026-10-02T14:28:28.505000+00:00,,"Morpho App
+Morpho Vaults | Frax USDai Ecosystem
+From app.morpho.org",link post,link post,Product & vault update,4,,,368,368,,thread continuation,https://x.com/Re7Labs/status/2106028547525812524,import (screenshot capture)
+Labs,X,2105553739566268806,2026-10-01T07:01:45.466000+00:00,,"In partnership with @fraxfinance and @USDai_Official, @Re7Labs has
+launched a Frax USDai Ecosystem Vault on Mainnet.
+This vault deploys frxUSD exclusively across curated opportunities within
+the USDai ecosystem to optimize yield and capital efficiency.
+frxUSD lenders are",image,image,Product & vault update,22,2,10,9000,9000,100.0,,https://x.com/Re7Labs/status/2105553739566268806,import (screenshot capture)
+Labs,X,2105553817291161750,2026-10-01T07:02:03.997000+00:00,,"Morpho App
+Morpho Vaults | Frax USDai Ecosystem
+Fromapp.morpho.org",link post,link post,Product & vault update,1,,,440,440,,thread continuation,https://x.com/Re7Labs/status/2105553817291161750,import (screenshot capture)
+Labs,X,2105223327967052100,2026-09-30T09:08:49.202000+00:00,,"The Re7 WETH vault on Optimism is currently earning 5.58% APY on WETH
+lending to blue-chip only.
+Exposure: 100% wstETH
+Link below 4",image,image,Product & vault update,4,4,1,748,748,20.0,,https://x.com/Re7Labs/status/2105223327967052100,import (screenshot capture)
+Labs,X,2105223352033873975,2026-09-30T09:08:54.940000+00:00,,"Morpho App
+Morpho Vaults | Re7 WETH
+Morpho Vaults Re7 WETH
+From app.morpho.org
+01",link post,link post,Product & vault update,1,,,250,250,,thread continuation,https://x.com/Re7Labs/status/2105223352033873975,import (screenshot capture)
+Labs,X,2103598858173366767,2026-09-25T21:33:45.422000+00:00,,"9.25% on USDC lending to @plumenetwork's nOpal on @kamino.
+Utilization is 67%.
+4x leverage on nOpal is currently offering 30.2% APY.",image,image,Product & vault update,12,4,,1100,1100,40.0,,https://x.com/Re7Labs/status/2103598858173366767,import (screenshot capture)
+Labs,X,2102683760936280440,2026-09-23T08:57:29.239000+00:00,,"The Re7 WETH vault on OP is earning 5.10%
+Exposure: wstETH 100%
+Link below 4",image,image,Product & vault update,6,2,,630,630,0.0,,https://x.com/Re7Labs/status/2102683760936280440,import (screenshot capture)
+Labs,X,2102683819010867654,2026-09-23T08:57:43.085000+00:00,,"Morpho App
+Morpho Vaults | Re7 WETH
+From app.morpho.org",link post,link post,Product & vault update,2,,,235,235,,thread continuation,https://x.com/Re7Labs/status/2102683819010867654,import (screenshot capture)
+Capital,LinkedIn,Re72-01,,19h,"Chart of the week.
+The US midterms were the clearing event investors were waiting for. ...more",chart/data visual,chart/data visual,Market commentary,2,,,,2,12.5,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-02,,1d,"Stablecoins beyond payments: Ethena Labs's Guy Young on Crypto
+Minutes, Bloomberg TV ...more",video,video,Media & events,6,,2,,6,44.3,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-03,,2d,"Re7's Weekly is out: The Binance Hack and What Comes Next
+We breakdown: ...more",image,image,Weekly promotion,3,,3,,3,28.4,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-04,,1w,"Bringing corporate treasury on-chain: a conversation with Yuval Rooz on Crypto
+Minutes, Bloomberg TV. ...more",video,video,Media & events,8,2,2,,8,59.1,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-05,,1w,"Re7's Weekly is out: Three Areas of Growth in On-Chain Markets
+We breakdown: ...more",image,image,Weekly promotion,8,,3,,8,59.1,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-06,,2w,"Building the rails between TradFi and digital assets: a conversation with BCB
+Group's Tim Renew on Crypto Minutes, Bloomberg TV. ...more",video,video,Media & events,31,3,5,,31,95.5,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-07,,2w,"Re7's Weekly is out: Markets Are Refusing to Break
+We breakdown: ..more",image,image,Weekly promotion,7,,2,,7,51.1,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-08,,3w,"Beyond holding ETH: a conversation with Sharplink's Joseph Chalom on Crypto
+Minutes, Bloomberg TV. ...more",video,video,Media & events,14,1,1,,14,77.3,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-09,,3w,"New report — A Framework for Decomposing DeFi Risk in the Age of Al
+As DeFi matures and institutional capital arrives, a common language for ...more",image,image,Research insight,27,1,7,,27,90.9,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-10,,3w,"Re7's Weekly is out: From Record September to Midterm Uncertainty
+We breakdown: ...more",image,image,Weekly promotion,2,,,,2,12.5,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-11,,3w,"From Singapore to Dubai: Re7's Founder & CIO, Evgeny Gokhberg, will be
+speaking at AIM Summit Dubai on 13 October, discussing ""The Future of Digital
+Finance: Tokenization, Stablecoins & the Next Generation of Capital ...more",link post,link post,Media & events,9,,1,,9,67.0,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-12,,3w,"Re7 Capital hosts Crypto Minutes, the new Bloomberg TV show.
+Crypto Minutes is an interview series airing on Bloomberg TV, hosted by Ev! ...more",image,image,Media & events,34,1,5,,34,100.0,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-13,,4w,"Re7's Founder & CIO, Evgeny Gokhberg, will be on stage tomorrow at Vault
+Summit in Singapore....more",image,image,Media & events,19,,,,19,84.1,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-14,,4w,"Re7's Founder & CIO, Evgeny Gokhberg, will be speaking at LONGITUDE
+by Cointelegraph in Singapore on October 8th, discussing ""Where Is the Smart
+Money Going? ETFs, Onchain Asset Management and the Next Cycle."" ...more",link post,link post,Media & events,6,,,,6,44.3,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-15,,4w,"Re7's Weekly is out: From Permission to Integration
+We breakdown: ...more",image,image,Weekly promotion,3,,1,,3,28.4,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-16,,4w,"Re7's Founder & CIO, Evgeny Gokhberg, will be speaking at the Digital Asset
+Yield Summit in Singapore on October 6th, discussing ""Onchain Credit:
+Underwriting, Transparency and Risk.""
+.more",link post,link post,Media & events,8,1,,,8,59.1,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-17,,4w,"An opportunity to join Re7 Capital!
+We're hiring a Fund Operations Manager....more",link post,link post,Company news,15,,1,,15,79.5,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-18,,1mo,"Re7's Founder & CIO, Evgeny Gokhberg, will be speaking at the Vault Summit in
+Singapore on October 9th, discussing ""What Vaults Demand of Traditional
+Singapore on October 9th, discussing
+""What Vaults Demand of Traditiona
+Assets."" ...more",link post,link post,Media & events,11,,,,11,72.7,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-19,,1mo,"Re7's Founder & CIO, Evgeny Gokhberg, will be speaking at Open by Monad, the
+flagship conference for the onchain economy, taking place on October 6th in
+Singapore. ...more",image,image,Media & events,28,1,4,,28,93.2,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-20,,1mo,"Re7's Weekly is out: Trading Cards Move Onchain
+We breakdown: ...more",image,image,Weekly promotion,3,,,,3,28.4,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-21,,1mo,"Chart of the week.
+cnart or tne week.
+Solana spot DEX activity has more than doubled since July, nearing 200M ...more",chart/data visual,chart/data visual,Research insight,3,1,,,3,28.4,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-22,,1mo,"Re7's Weekly is out: Markets Are Moving Onchain
+We breakdown: ...more",image,image,Weekly promotion,3,1,1,,3,28.4,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-23,,1mo,"New report - Decentralised Finance: Mapping Yield, Risk, and Institutional
+Participation ...more",image,image,Research insight,17,,5,,17,81.8,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-24,,1mo,"Re7's Weekly is out: Crypto Defies the Hikes
+We breakdown: ...more",link post,link post,Weekly promotion,2,1,,,2,12.5,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-25,,1mo,"Chart of the week.
+Stock-paired memecoins fueled a surge in Robinhood DEX volume - from ...more",chart/data visual,chart/data visual,Research insight,6,,,,6,44.3,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-26,,1mo,"Excited for Re7's founder Evgeny Gokhberg to join AIM Summit this October -
+see you there F
+AIM Summit
++ Follow
+11,532 followers
+1mo • G
+We're thrilled to announce that Evgeny Gokhberg, Founder & Managing
+Partner of Re7 Capital, will be joining AIM Summit Dubai 2026 as a ...more",link post,link post,Media & events,1,,,,1,2.3,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-27,,1mo,"Re7's Weekly is out: Can the Move Sustain?
+We breakdown: ...more",link post,link post,Weekly promotion,2,,,,2,12.5,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-28,,2mo,"Chart of the week.
+BTC's 200-day moving average turned up in August, ending a 277-day ...more",chart/data visual,chart/data visual,Research insight,9,1,1,,9,67.0,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-29,,2mo,"Our founder Evgeny Gokhberg will be taking the stage at Digital Asset Yield
+Summit Singapore on October 6th — alongside leaders from Sharplink, Fidelity
+Investments, Bitwise Asset Management and others. ....more",link post,link post,Media & events,4,,,,4,38.6,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-30,,2mo,"Re7's Weekly is out: The Rise of Interface Apps
+We breakdown: ...more",link post,link post,Weekly promotion,1,,1,,1,2.3,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-31,,2mo,"Chart of the week.
+Interfaces now account for ~ 19% of perpetual volume, up from <1% at the ...more",chart/data visual,chart/data visual,Research insight,2,1,,,2,12.5,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-32,,2mo,"Our Founder Evgeny Gokhberg will be taking the stage at Cointelegraph's
+LONGITUDE in Singapore this year, joining a lineup spanning TradFi and Web3
+- Standard Chartered, Visa, Fidelity Investments, Franklin Templeton, ...more",link post,link post,Media & events,12,1,,,12,75.0,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-33,,2mo,"New episode of 1000x Media is out - Avi Felman sits down with our
+founder Evgeny Gokhberg on the real Al risk to DeFi, and why 99% of this year's
+hacks had nothing to do with Al breaking smart contracts....more",link post,link post,Media & events,22,1,3,,22,86.4,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-34,,2mo,"Re7's Weekly is out: Crypto Finally Catches Up
+We breakdown: ...more",link post,link post,Weekly promotion,1,,,,1,2.3,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-35,,2mo,"An opportunity to join Re7 Capital!
+Re7 Capital is hiring a Senior Legal Counsel - Crypto/DeFi. ...more",image,image,Company news,10,,4,,10,70.5,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-36,,2mo,"""Why DeFi's Toughest Moments Make the Strongest Case for Staying In It""
+DeFi's hack-to-TVL ratio has fallen from ~ 14% five years ago to a ...more",link post,link post,Market commentary,23,2,5,,23,88.6,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-37,,2mo,"Re7's Weekly is out: Three Crypto Growth Trends
+We breakdown: ...more",link post,link post,Weekly promotion,8,1,3,,8,59.1,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-38,,2mo,"Last month, Re7 Capital turned 5 years old! &
+Re7 went live in the days of DeFi summer, betting that liquidity provisioning ...more",link post,link post,Company news,8,1,3,,8,59.1,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-39,,2mo,"Chart of the week.
+RWA perp volume hit ~$145B in July 2026 - fresh ATH, 7x YTD. ...more",chart/data visual,chart/data visual,Research insight,3,,,,3,28.4,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-40,,3mo,"Re7's Weekly is out: DeFi Yield Is Back!
+We breakdown: ...more",link post,link post,Weekly promotion,6,,1,,6,44.3,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-41,,3mo,"Chart of the week.
+There's always a bull market somewhere. ...more",chart/data visual,chart/data visual,Research insight,3,,,,3,28.4,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-42,,3mo,"Our Founder & CIO Evgeny Gokhberg will be speaking at the Vault Summit
+during TOKEN2049 in Singapore. ...more",link post,link post,Media & events,3,,1,,3,28.4,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-43,,Зто • •,"Proud to be named an ecosystem supporter of Ethereum Institutional.
+Re7 remains fully committed to DeFi and to strengthening Ethereum's ...more",link post,link post,Company news,2,,1,,2,12.5,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-44,,3mo,"Optimising Risk and Reward in DeFi.
+The Hedge Fund Journal just published a new profile on Re7 Capital - ...more",link post,link post,Media & events,32,,3,,32,97.7,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Capital,LinkedIn,Re72-45,,3mo,"Re7's Weekly is out: The Rise of Onchain IPO Price Discovery
+We breakdown: ...more",link post,link post,Weekly promotion,7,2,2,,7,51.1,,https://www.linkedin.com/company/re7capital/posts/,import (screenshot capture)
+Labs,LinkedIn,Re74-01,,1mo,"Re7's OP Morpho WETH vault was integrated by Alchemix.
+The market lends against Re7ETH - Re7's flagship ETH Yield strategy - ...more",image,image,Product & vault update,3,2,,,3,40.0,,https://www.linkedin.com/showcase/re7-labs/posts/,import (screenshot capture)
+Labs,LinkedIn,Re74-02,,1mo,"Re7 Labs x Kamino: Introducing the Plume Vaults
+We're excited to announce that Re7 Labs, in partnership with Kamino, is ...more",image,image,Product & vault update,35,3,6,,35,100.0,,https://www.linkedin.com/showcase/re7-labs/posts/,import (screenshot capture)
+Labs,LinkedIn,Re74-03,,2mo,"Re7 Labs x Optimism Foundation: Growing Re7ETH!
+We're excited to share that Re7 Labs has been awarded a grant from ...more",link post,link post,Product & vault update,13,,2,,13,70.0,,https://www.linkedin.com/showcase/re7-labs/posts/,import (screenshot capture)
+Labs,LinkedIn,Re74-04,,3mo,"Proud to be named an ecosystem supporter of Ethereum Institutional.
+Re7 remains fully committed to DeFi and to strengthening Ethereum's ...more",link post,link post,Company news,1,,,,1,10.0,,https://www.linkedin.com/showcase/re7-labs/posts/,import (screenshot capture)
+Labs,LinkedIn,Re74-05,,4mo,"An opportunity to join Re7 Labs!
+Re7 Labs is hiring a Senior DeFi BD Lead. ...more",image,image,Company news,53,1,9,,53,,self-repost,https://www.linkedin.com/showcase/re7-labs/posts/,import (screenshot capture)
+Labs,LinkedIn,Re74-06,,3mo,"Tokenised Market-Neutral Strategies: A Structural Fit.
+Market-neutral strategies are built to reduce exposure to market direction ...more",image,image,Education & explainer,1,1,,,1,10.0,,https://www.linkedin.com/showcase/re7-labs/posts/,import (screenshot capture)
+Labs,LinkedIn,Re74-07,,3mo,"Prediction markets are increasingly being explored as sources of event-based
+information and market-implied probabilities. The market for truth, offering unique
+hedging opportunities. ….more",video,video,Education & explainer,13,1,2,,13,70.0,,https://www.linkedin.com/showcase/re7-labs/posts/,import (screenshot capture)

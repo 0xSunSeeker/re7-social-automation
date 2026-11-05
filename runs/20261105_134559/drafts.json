@@ -1,0 +1,110 @@
+[
+  {
+    "entity": "Capital",
+    "channel": "X",
+    "source_id": "S3",
+    "finding_used": 2,
+    "format_brief": "Single chart image: total crypto market cap vs Fear & Greed, both indexed from 21 September",
+    "text": "Since crypto sentiment peaked on 21 September, total market capitalisation has declined just 7%, while Fear & Greed has fallen 38% on an indexed basis. Sentiment is pricing a larger correction than prices have delivered.",
+    "why": "Leads The Weekly with one specific finding rather than a title and bullet list, as the Weekly-promotion finding recommends.",
+    "source_title": "The Weekly - 19th October 2026",
+    "source_url": "https://re7research.substack.com/p/the-weekly-19th-october-2026",
+    "final_text": "Since crypto sentiment peaked on 21 September, total market capitalisation has declined just 7%, while Fear & Greed has fallen 38% on an indexed basis. Sentiment is pricing a larger correction than prices have delivered.\n\nhttps://re7research.substack.com/p/the-weekly-19th-october-2026"
+  },
+  {
+    "entity": "Capital",
+    "channel": "X",
+    "source_id": "S2",
+    "finding_used": 2,
+    "format_brief": "Simple bar chart image: weekly on-chain trading card volume, start of year vs now",
+    "text": "On-chain trading card weekly volumes are approaching $100 million, against less than $20 million at the start of the year. Low transaction costs and integrations across Pump.fun, Jupiter and other Solana applications are widening distribution.",
+    "why": "Opens with one number from the issue instead of a plain Weekly title, to test against the low Weekly percentiles on Capital X.",
+    "source_title": "The Weekly - 26th October 2026",
+    "source_url": "https://re7research.substack.com/p/the-weekly-26th-october-2026",
+    "final_text": "On-chain trading card weekly volumes are approaching $100 million, against less than $20 million at the start of the year. Low transaction costs and integrations across Pump.fun, Jupiter and other Solana applications are widening distribution.\n\nhttps://re7research.substack.com/p/the-weekly-26th-october-2026"
+  },
+  {
+    "entity": "Labs",
+    "channel": "X",
+    "source_id": "S1",
+    "finding_used": 4,
+    "format_brief": "Plain text post, no image",
+    "text": "The $6.3bn Binance exploit represented 3.7% of the exchange's $171bn in customer assets. Approximately $2.8bn was rapidly frozen by Circle, Tether and other issuers. Transparent onchain infrastructure made tracing possible, which contained the damage.",
+    "why": "A short, plain-text risk update on a market event, as the Labs X finding suggests trialling.",
+    "source_title": "The Weekly - 2nd November 2026",
+    "source_url": "https://re7research.substack.com/p/the-weekly-2nd-november-2026",
+    "final_text": "The $6.3bn Binance exploit represented 3.7% of the exchange's $171bn in customer assets. Approximately $2.8bn was rapidly frozen by Circle, Tether and other issuers. Transparent onchain infrastructure made tracing possible, which contained the damage.\n\nhttps://re7research.substack.com/p/the-weekly-2nd-november-2026"
+  },
+  {
+    "entity": "Capital",
+    "channel": "LinkedIn",
+    "source_id": "S1",
+    "finding_used": 1,
+    "format_brief": "Image post: still from the Crypto Minutes episode with Yuval Rooz and Evgeny Gokhberg, quote overlaid; not a link post",
+    "text": "For Yuval Rooz, Co-Founder and CEO of Digital Asset, the company behind Canton Network, RWAs have always been the most compelling use case on-chain, and corporate treasury is where that becomes real.\n\nSpeaking with Re7 Founder and CIO Evgeny Gokhberg on Crypto Minutes, Bloomberg TV, he said: “They’ll start doing treasury management using on-chain finance.”\n\nThe conversation looks at the next phase of finance moving on-chain, and what it means for institutions that manage cash and liquidity every day.\n\nThe full episode is linked below.",
+    "why": "A media appearance published as an image post rather than a link post, following the media and events finding.",
+    "source_title": "The Weekly - 2nd November 2026",
+    "source_url": "https://re7research.substack.com/p/the-weekly-2nd-november-2026",
+    "final_text": "For Yuval Rooz, Co-Founder and CEO of Digital Asset, the company behind Canton Network, RWAs have always been the most compelling use case on-chain, and corporate treasury is where that becomes real.\n\nSpeaking with Re7 Founder and CIO Evgeny Gokhberg on Crypto Minutes, Bloomberg TV, he said: “They’ll start doing treasury management using on-chain finance.”\n\nThe conversation looks at the next phase of finance moving on-chain, and what it means for institutions that manage cash and liquidity every day.\n\nThe full episode is linked below.\n\nhttps://re7research.substack.com/p/the-weekly-2nd-november-2026"
+  },
+  {
+    "entity": "Capital",
+    "channel": "LinkedIn",
+    "source_id": "S5",
+    "finding_used": 2,
+    "format_brief": "Image post: photo from the Cross-Border Fund Distribution Conference in London with a one-line takeaway",
+    "text": "Institutional adoption of crypto depends less on whether an investment committee likes Bitcoin and more on whether custody, compliance and fiduciary processes permit ownership.\n\nThat was our reading of the SEC's proposed custody framework for advisers and regulated funds, which would permit self-custody in certain circumstances and state trust companies as custodians. The SEC describes the objective as giving advisers and funds a compliant pathway to crypto exposure.\n\nRemoving those operational constraints expands the addressable pool of capital. The UK is moving in a similar direction, with the focus on how tokenisation fits within existing financial markets. Our team discussed the UK's tokenisation roadmap at the Cross-Border Fund Distribution Conference in London, alongside regulators, lawyers and asset managers.\n\nThe full analysis is in The Weekly.",
+    "why": "Leads with a single finding from the issue and recaps the London conference as a past event, as both the Weekly and media and events findings suggest.",
+    "source_title": "The Weekly - 5th October 2026",
+    "source_url": "https://re7research.substack.com/p/the-weekly-5th-october-2026",
+    "final_text": "Institutional adoption of crypto depends less on whether an investment committee likes Bitcoin and more on whether custody, compliance and fiduciary processes permit ownership.\n\nThat was our reading of the SEC's proposed custody framework for advisers and regulated funds, which would permit self-custody in certain circumstances and state trust companies as custodians. The SEC describes the objective as giving advisers and funds a compliant pathway to crypto exposure.\n\nRemoving those operational constraints expands the addressable pool of capital. The UK is moving in a similar direction, with the focus on how tokenisation fits within existing financial markets. Our team discussed the UK's tokenisation roadmap at the Cross-Border Fund Distribution Conference in London, alongside regulators, lawyers and asset managers.\n\nThe full analysis is in The Weekly.\n\nhttps://re7research.substack.com/p/the-weekly-5th-october-2026"
+  },
+  {
+    "entity": "Labs",
+    "channel": "LinkedIn",
+    "source_id": "S1",
+    "finding_used": 2,
+    "format_brief": "Image post: simple three-layer diagram (chain, protocol, asset) with the report title",
+    "text": "Institutional DeFi needs a common language for risk. That is the premise of A Framework for Decomposing DeFi Risk in the Age of AI, written in collaboration with Clear Street and led by Re7 Founder and CIO Evgeny Gokhberg.\n\nBuilt on our own methodology, the framework breaks exposure into chain, protocol and asset layers. Separating the layers matters because a single position can carry different risks at each one, and those risks are easier to assess when they are named separately. The report also explores how AI is reshaping risk monitoring.\n\nFor curators and allocators alike, shared definitions make risk easier to compare, challenge and monitor. The report is available to download via the link below.",
+    "why": "Leads with one finding from the issue rather than a title and bullet list, as the Weekly finding recommends.",
+    "source_title": "The Weekly - 2nd November 2026",
+    "source_url": "https://re7research.substack.com/p/the-weekly-2nd-november-2026",
+    "final_text": "Institutional DeFi needs a common language for risk. That is the premise of A Framework for Decomposing DeFi Risk in the Age of AI, written in collaboration with Clear Street and led by Re7 Founder and CIO Evgeny Gokhberg.\n\nBuilt on our own methodology, the framework breaks exposure into chain, protocol and asset layers. Separating the layers matters because a single position can carry different risks at each one, and those risks are easier to assess when they are named separately. The report also explores how AI is reshaping risk monitoring.\n\nFor curators and allocators alike, shared definitions make risk easier to compare, challenge and monitor. The report is available to download via the link below.\n\nhttps://re7research.substack.com/p/the-weekly-2nd-november-2026"
+  },
+  {
+    "entity": "Labs",
+    "channel": "Telegram",
+    "source_id": "S3",
+    "finding_used": 3,
+    "format_brief": "Vault update image: Frax USDai Ecosystem Vault graphic with partner names",
+    "text": "Vault recap for anyone who missed it: Re7 Labs launched a Frax USDai Ecosystem Vault on Mainnet with Frax Finance and USD.AI.\n\nThe vault deploys frxUSD across curated opportunities in the USDai ecosystem, a collaboration between Re7 Labs, Frax Finance and USD.AI. It runs on Mainnet.\n\nFull detail is available via the link below.",
+    "why": "Gives a vault update a Telegram slot, since product and vault images outperform the Weekly there, and frames the older launch as a recap.",
+    "source_title": "The Weekly - 19th October 2026",
+    "source_url": "https://re7research.substack.com/p/the-weekly-19th-october-2026",
+    "final_text": "Vault recap for anyone who missed it: Re7 Labs launched a Frax USDai Ecosystem Vault on Mainnet with Frax Finance and USD.AI.\n\nThe vault deploys frxUSD across curated opportunities in the USDai ecosystem, a collaboration between Re7 Labs, Frax Finance and USD.AI. It runs on Mainnet.\n\nFull detail is available via the link below.\n\nhttps://re7research.substack.com/p/the-weekly-19th-october-2026"
+  },
+  {
+    "entity": "Labs",
+    "channel": "Telegram",
+    "source_id": "S6",
+    "finding_used": 3,
+    "format_brief": "Product image: Re7 DeFi Ratings card with a short description",
+    "text": "Re7 DeFi Ratings is a risk management framework that evaluates smart contract and other DeFi risks to assign holistic ratings.\n\nThose ratings act as a key input into DeFi asset allocation models. They sit alongside the in-house risk tooling and research that Re7 Labs applies as a curator and advisor to a wide range of DeFi protocols.\n\nMore on our products is available via the link below.",
+    "why": "Prioritises a product update in Telegram slots, as the finding that product updates beat the Weekly recommends.",
+    "source_title": "Re7 Labs - Research & Innovation",
+    "source_url": "https://re7labs.xyz/",
+    "final_text": "Re7 DeFi Ratings is a risk management framework that evaluates smart contract and other DeFi risks to assign holistic ratings.\n\nThose ratings act as a key input into DeFi asset allocation models. They sit alongside the in-house risk tooling and research that Re7 Labs applies as a curator and advisor to a wide range of DeFi protocols.\n\nMore on our products is available via the link below.\n\nhttps://re7labs.xyz/"
+  },
+  {
+    "entity": "Labs",
+    "channel": "Telegram",
+    "source_id": "S6",
+    "finding_used": 3,
+    "format_brief": "Product image: Re7 Labs solutions card covering risk curation, ecosystem design and building blocks",
+    "text": "Growing a DeFi ecosystem starts with liquidity and user experience. Re7 Labs works on ecosystem design with that focus, and works across all layers of DeFi, developing it from the ground up.\n\nAlongside this, we curate onchain risk, applying in-house risk tooling and research to support a wide range of DeFi protocols as a curator and advisor.\n\nTo talk it through, reach out via the Re7 Labs website.",
+    "why": "Uses a product-focused post in a Telegram slot instead of another Weekly promotion, following the Telegram finding.",
+    "source_title": "Re7 Labs - Research & Innovation",
+    "source_url": "https://re7labs.xyz/",
+    "final_text": "Growing a DeFi ecosystem starts with liquidity and user experience. Re7 Labs works on ecosystem design with that focus, and works across all layers of DeFi, developing it from the ground up.\n\nAlongside this, we curate onchain risk, applying in-house risk tooling and research to support a wide range of DeFi protocols as a curator and advisor.\n\nTo talk it through, reach out via the Re7 Labs website.\n\nhttps://re7labs.xyz/"
+  }
+]

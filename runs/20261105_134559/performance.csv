@@ -1,0 +1,32 @@
+entity,channel,theme,format,n,metric,median,median_percentile,status
+Capital,LinkedIn,Media & events,image,3,reactions,28,93.2,ok
+Capital,LinkedIn,Market commentary,link post,1,reactions,23,88.6,too few to call
+Capital,LinkedIn,Research insight,image,2,reactions,22.0,86.3,too few to call
+Capital,LinkedIn,Company news,image,1,reactions,10,70.5,too few to call
+Capital,LinkedIn,Media & events,video,4,reactions,11.0,68.2,ok
+Capital,LinkedIn,Media & events,link post,10,reactions,8.5,63.0,ok
+Capital,LinkedIn,Company news,link post,3,reactions,8,59.1,ok
+Capital,LinkedIn,Weekly promotion,image,7,reactions,3,28.4,ok
+Capital,LinkedIn,Research insight,chart/data visual,6,reactions,3.0,28.4,ok
+Capital,LinkedIn,Market commentary,chart/data visual,1,reactions,2,12.5,too few to call
+Capital,LinkedIn,Weekly promotion,link post,7,reactions,2,12.5,ok
+Capital,X,Research insight,image,2,views,594.5,88.7,too few to call
+Capital,X,Media & events,video,2,views,1738.5,75.0,too few to call
+Capital,X,Media & events,image,6,views,410.0,56.8,ok
+Capital,X,Weekly promotion,link post,2,views,398.0,54.5,too few to call
+Capital,X,Research insight,chart/data visual,3,views,374,50.0,ok
+Capital,X,Weekly promotion,image,6,views,310.0,20.4,ok
+Capital,X,Media & events,link post,1,views,301,13.6,too few to call
+Capital,X,Company news,image,1,views,259,4.5,too few to call
+Labs,LinkedIn,Product & vault update,image,2,reactions,19.0,70.0,too few to call
+Labs,LinkedIn,Product & vault update,link post,1,reactions,13,70.0,too few to call
+Labs,LinkedIn,Education & explainer,video,1,reactions,13,70.0,too few to call
+Labs,LinkedIn,Company news,link post,1,reactions,1,10.0,too few to call
+Labs,LinkedIn,Education & explainer,image,1,reactions,1,10.0,too few to call
+Labs,Telegram,Media & events,link post,1,views,354,100.0,too few to call
+Labs,Telegram,Product & vault update,link post,1,views,290,88.9,too few to call
+Labs,Telegram,Product & vault update,image,5,views,253,66.7,ok
+Labs,Telegram,Research insight,image,2,views,257.5,66.7,too few to call
+Labs,Telegram,Weekly promotion,image,10,views,201.0,25.0,ok
+Labs,X,Risk & incident update,text-only,1,views,2700,80.0,too few to call
+Labs,X,Product & vault update,image,5,views,1100,40.0,ok

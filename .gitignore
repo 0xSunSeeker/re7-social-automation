@@ -1,0 +1,12 @@
+.env
+.env*
+.venv/
+_to_delete/
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# earlier attempt folders; the repo ships one complete run as proof
+runs/20261105_132526/
+runs/20261105_132623/
+runs/20261105_133657/

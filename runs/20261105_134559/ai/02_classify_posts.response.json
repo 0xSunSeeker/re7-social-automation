@@ -1,0 +1,242 @@
+{
+  "id": "msg_011CgjtCQdoLcHoc7VXQmB1r",
+  "container": null,
+  "content": [
+    {
+      "id": "toolu_01XLnoUwrp5dMi7jtwXetaTL",
+      "caller": {
+        "type": "direct"
+      },
+      "input": {
+        "labels": [
+          {
+            "id": 40,
+            "theme": "Research insight",
+            "format": "image"
+          },
+          {
+            "id": 41,
+            "theme": "Weekly promotion",
+            "format": "link post"
+          },
+          {
+            "id": 42,
+            "theme": "Company news",
+            "format": "link post"
+          },
+          {
+            "id": 43,
+            "theme": "Research insight",
+            "format": "chart/data visual"
+          },
+          {
+            "id": 44,
+            "theme": "Company news",
+            "format": "text-only"
+          },
+          {
+            "id": 45,
+            "theme": "Media & events",
+            "format": "link post"
+          },
+          {
+            "id": 46,
+            "theme": "Weekly promotion",
+            "format": "link post"
+          },
+          {
+            "id": 47,
+            "theme": "Research insight",
+            "format": "chart/data visual"
+          },
+          {
+            "id": 48,
+            "theme": "Company news",
+            "format": "text-only"
+          },
+          {
+            "id": 49,
+            "theme": "Media & events",
+            "format": "image"
+          },
+          {
+            "id": 50,
+            "theme": "Weekly promotion",
+            "format": "text-only"
+          },
+          {
+            "id": 51,
+            "theme": "Product & vault update",
+            "format": "image"
+          },
+          {
+            "id": 52,
+            "theme": "Risk & incident update",
+            "format": "text-only"
+          },
+          {
+            "id": 53,
+            "theme": "Product & vault update",
+            "format": "image"
+          },
+          {
+            "id": 54,
+            "theme": "Product & vault update",
+            "format": "link post"
+          },
+          {
+            "id": 55,
+            "theme": "Product & vault update",
+            "format": "image"
+          },
+          {
+            "id": 56,
+            "theme": "Product & vault update",
+            "format": "link post"
+          },
+          {
+            "id": 57,
+            "theme": "Product & vault update",
+            "format": "image"
+          },
+          {
+            "id": 58,
+            "theme": "Product & vault update",
+            "format": "link post"
+          },
+          {
+            "id": 59,
+            "theme": "Product & vault update",
+            "format": "image"
+          },
+          {
+            "id": 60,
+            "theme": "Product & vault update",
+            "format": "image"
+          },
+          {
+            "id": 61,
+            "theme": "Product & vault update",
+            "format": "link post"
+          },
+          {
+            "id": 62,
+            "theme": "Market commentary",
+            "format": "chart/data visual"
+          },
+          {
+            "id": 63,
+            "theme": "Media & events",
+            "format": "video"
+          },
+          {
+            "id": 64,
+            "theme": "Weekly promotion",
+            "format": "image"
+          },
+          {
+            "id": 65,
+            "theme": "Media & events",
+            "format": "video"
+          },
+          {
+            "id": 66,
+            "theme": "Weekly promotion",
+            "format": "image"
+          },
+          {
+            "id": 67,
+            "theme": "Media & events",
+            "format": "video"
+          },
+          {
+            "id": 68,
+            "theme": "Weekly promotion",
+            "format": "image"
+          },
+          {
+            "id": 69,
+            "theme": "Media & events",
+            "format": "video"
+          },
+          {
+            "id": 70,
+            "theme": "Research insight",
+            "format": "image"
+          },
+          {
+            "id": 71,
+            "theme": "Weekly promotion",
+            "format": "image"
+          },
+          {
+            "id": 72,
+            "theme": "Media & events",
+            "format": "link post"
+          },
+          {
+            "id": 73,
+            "theme": "Media & events",
+            "format": "image"
+          },
+          {
+            "id": 74,
+            "theme": "Media & events",
+            "format": "image"
+          },
+          {
+            "id": 75,
+            "theme": "Media & events",
+            "format": "link post"
+          },
+          {
+            "id": 76,
+            "theme": "Weekly promotion",
+            "format": "image"
+          },
+          {
+            "id": 77,
+            "theme": "Media & events",
+            "format": "link post"
+          },
+          {
+            "id": 78,
+            "theme": "Company news",
+            "format": "link post"
+          },
+          {
+            "id": 79,
+            "theme": "Media & events",
+            "format": "link post"
+          }
+        ]
+      },
+      "name": "classify_posts",
+      "type": "tool_use",
+      "toolset_name": null
+    }
+  ],
+  "model": "claude-sonnet-5-5",
+  "role": "assistant",
+  "stop_details": null,
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": null,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "inference_geo": null,
+    "input_tokens": 5560,
+    "output_tokens": 1055,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": null,
+    "service_tier": null
+  },
+  "diagnostics": null,
+  "context_management": {
+    "applied_edits": []
+  }
+}

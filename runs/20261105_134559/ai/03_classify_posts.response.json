@@ -1,0 +1,212 @@
+{
+  "id": "msg_011CgjtD1iC8stzvFNftdcEU",
+  "container": null,
+  "content": [
+    {
+      "id": "toolu_01Fyxgw2kwjbjXZUYKfvZudd",
+      "caller": {
+        "type": "direct"
+      },
+      "input": {
+        "labels": [
+          {
+            "id": 80,
+            "theme": "Media & events",
+            "format": "image"
+          },
+          {
+            "id": 81,
+            "theme": "Weekly promotion",
+            "format": "image"
+          },
+          {
+            "id": 82,
+            "theme": "Research insight",
+            "format": "chart/data visual"
+          },
+          {
+            "id": 83,
+            "theme": "Weekly promotion",
+            "format": "image"
+          },
+          {
+            "id": 84,
+            "theme": "Research insight",
+            "format": "image"
+          },
+          {
+            "id": 85,
+            "theme": "Weekly promotion",
+            "format": "link post"
+          },
+          {
+            "id": 86,
+            "theme": "Research insight",
+            "format": "chart/data visual"
+          },
+          {
+            "id": 87,
+            "theme": "Media & events",
+            "format": "link post"
+          },
+          {
+            "id": 88,
+            "theme": "Weekly promotion",
+            "format": "link post"
+          },
+          {
+            "id": 89,
+            "theme": "Research insight",
+            "format": "chart/data visual"
+          },
+          {
+            "id": 90,
+            "theme": "Media & events",
+            "format": "link post"
+          },
+          {
+            "id": 91,
+            "theme": "Weekly promotion",
+            "format": "link post"
+          },
+          {
+            "id": 92,
+            "theme": "Research insight",
+            "format": "chart/data visual"
+          },
+          {
+            "id": 93,
+            "theme": "Media & events",
+            "format": "link post"
+          },
+          {
+            "id": 94,
+            "theme": "Media & events",
+            "format": "link post"
+          },
+          {
+            "id": 95,
+            "theme": "Weekly promotion",
+            "format": "link post"
+          },
+          {
+            "id": 96,
+            "theme": "Company news",
+            "format": "image"
+          },
+          {
+            "id": 97,
+            "theme": "Market commentary",
+            "format": "link post"
+          },
+          {
+            "id": 98,
+            "theme": "Weekly promotion",
+            "format": "link post"
+          },
+          {
+            "id": 99,
+            "theme": "Company news",
+            "format": "link post"
+          },
+          {
+            "id": 100,
+            "theme": "Research insight",
+            "format": "chart/data visual"
+          },
+          {
+            "id": 101,
+            "theme": "Weekly promotion",
+            "format": "link post"
+          },
+          {
+            "id": 102,
+            "theme": "Research insight",
+            "format": "chart/data visual"
+          },
+          {
+            "id": 103,
+            "theme": "Media & events",
+            "format": "link post"
+          },
+          {
+            "id": 104,
+            "theme": "Company news",
+            "format": "link post"
+          },
+          {
+            "id": 105,
+            "theme": "Media & events",
+            "format": "link post"
+          },
+          {
+            "id": 106,
+            "theme": "Weekly promotion",
+            "format": "link post"
+          },
+          {
+            "id": 107,
+            "theme": "Product & vault update",
+            "format": "image"
+          },
+          {
+            "id": 108,
+            "theme": "Product & vault update",
+            "format": "image"
+          },
+          {
+            "id": 109,
+            "theme": "Product & vault update",
+            "format": "link post"
+          },
+          {
+            "id": 110,
+            "theme": "Company news",
+            "format": "link post"
+          },
+          {
+            "id": 111,
+            "theme": "Company news",
+            "format": "image"
+          },
+          {
+            "id": 112,
+            "theme": "Education & explainer",
+            "format": "image"
+          },
+          {
+            "id": 113,
+            "theme": "Education & explainer",
+            "format": "video"
+          }
+        ]
+      },
+      "name": "classify_posts",
+      "type": "tool_use",
+      "toolset_name": null
+    }
+  ],
+  "model": "claude-sonnet-5-5",
+  "role": "assistant",
+  "stop_details": null,
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "type": "message",
+  "usage": {
+    "cache_creation": null,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 0,
+    "inference_geo": null,
+    "input_tokens": 4155,
+    "output_tokens": 918,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "server_tool_use": null,
+    "service_tier": null
+  },
+  "diagnostics": null,
+  "context_management": {
+    "applied_edits": []
+  }
+}
