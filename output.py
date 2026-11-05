@@ -15,7 +15,7 @@ import config
 
 POST_FIELDS = ["entity", "channel", "post_id", "date", "date_display", "text", "format", "ai_format", "theme",
                "likes", "comments", "reposts", "views", "metric", "percentile", "excluded", "url", "source"]
-REPO_URL = "[GitHub repo link]"
+REPO_URL = "https://github.com/0xSunSeeker/re7-social-automation"
 
 
 def save_data(run_dir, posts, table, sources, drafts):
